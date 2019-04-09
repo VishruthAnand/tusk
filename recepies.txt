@@ -4,6 +4,9 @@ keer
 pasta
 chicken
 
+beans
+pizza
+
 
 
 thank ypi
